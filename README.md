@@ -1,6 +1,6 @@
 ## DNASpeech: DNASpeech: A Contextualized and Situated Text-to-Speech Dataset with Dialogues, Narratives and Actions [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://github.com/DNASpeech/DNASpeech/blob/main/LICENSE)
 
-![DNASpeech Dataset](https://github.com/steven-ccq/DNASpeech/blob/main/imgs/demos.png)
+![DNASpeech Dataset](imgs/demos.png)
 
 DNASpeech is a novel text-to-speech dataset with high-quality speeches with **DNA** prompt annotations (**D**ialogue context, **N**arratives and **A**ction states). DNASpeech contains 2,395 distinct characters, 4,4529 scenes, and 22,975 dialogue utterances, along with over 18 hours of high-quality speech recordings, which provides text-to-speech task with more detailed description.
 
@@ -87,7 +87,7 @@ Below is a detailed example. For more examples, please refer to DNASpeech_meta.j
 
 If you wish to obtain the original, unprocessed audio files, we provide **DNASpeech_raw**, which contains the same content as NDASpeech_wav, but with all audio files in their raw, unprocessed state.
 
-![Statistics of Speeches](https://github.com/steven-ccq/DNASpeech/blob/main/imgs/stat.png)
+![Statistics of Speeches](imgs/stat.png)
 
 ## License
 All data is distributed under the [CC BY-NC-SA 4.0 license](https://github.com/DNASpeech/DNASpeech/blob/main/LICENSE). 
