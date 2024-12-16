@@ -92,4 +92,4 @@ If you wish to obtain the original, unprocessed audio files, we provide **DNASpe
 ## License
 All data is distributed under the [CC BY-NC-SA 4.0 license](https://github.com/DNASpeech/DNASpeech/blob/main/LICENSE). 
 
-Given the sensitive nature of biometric data, particularly vocal recordings, all data undergo anonymization to protect personal privacy. However, despite these measures, there exists a potential risk of misuse. **To prevent unauthorized usage or dissemination, access to the dataset is subject to a rigorous review process.** Regarding the intended use, users are permitted to define their own tasks in our dataset under the license, upon advanced contact with [us](chengchuanqi@ruc.edu.cn).
+Given the sensitive nature of biometric data, particularly vocal recordings, all data undergo anonymization to protect personal privacy. However, despite these measures, there exists a potential risk of misuse. **To prevent unauthorized usage or dissemination, access to the dataset is subject to a rigorous review process.** Regarding the intended use, users are permitted to define their own tasks in our dataset under the license, upon advanced contact with us.
